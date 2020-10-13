@@ -1,0 +1,3 @@
+The images during the graphwerk.py will all go in the \Train\Buy and \Train\Sell folders. Once completed, cut 20% of the images from these foders and paste them in the \Validation folders respectively.
+
+The images are created on a sequential order as they appear in the datafile. It would be a good idea to randomize the order in which they appear. Since the file names are UID, I found a simple sort will randomize the data.!
